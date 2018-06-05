@@ -62,7 +62,7 @@ def how_many_steps?
       puts "Right"
     end
     sleep (0.5)
-    if steps = 6, break
+    if steps = 6 break
   end
 end
 
